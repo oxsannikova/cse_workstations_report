@@ -10,7 +10,7 @@ This script will return the list of all computers from Cisco Secure Endpoint con
 
 Clone the repo
 ```bash
-git clone https://url.git
+git clone https://github.com/oxsannikova/cse_workstations_report.git
 ```
 Go to your project folder
 ```bash
