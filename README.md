@@ -14,7 +14,7 @@ git clone https://github.com/oxsannikova/cse_workstations_report.git
 ```
 Go to your project folder
 ```bash
-cd cisco-sdwan-python
+cd cse_workstations_report
 ```
 
 Set up a Python venv. First make sure that you have Python 3 installed on your machine. We will then be using venv to create an isolated environment with only the necessary packages.
