@@ -1,2 +1,4 @@
 environment_test.py
 examples
+.DS_Store
+__pycache__
